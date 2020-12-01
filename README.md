@@ -1,7 +1,7 @@
 # LegendSwap Smart Contracts
 
-[![Actions Status](https://github.com/legendswap/contracts/workflows/CI/badge.svg)](https://github.com/legendswap/contracts/actions)
-[![Version](https://img.shields.io/npm/v/@legendswap/contracts)](https://www.npmjs.com/package/@legendswap/contracts)
+[![Actions Status](https://github.com/legendswap/legendswap-core/workflows/CI/badge.svg)](https://github.com/legendswap/legendswap-core/actions)
+[![Version](https://img.shields.io/npm/v/@legendswap/legendswap-core)](https://www.npmjs.com/package/@legendswap/legendswap-core)
 [![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.gg/xjNuc56)
 
 This is the Smart Contract AMM implementation for [Binance Smart Chain](https://www.binance.org/en/smartChain).
@@ -14,7 +14,7 @@ For SDK code please refer to [https://github.com/legendswap/legendswap-sdk](http
 
 In-depth documentation on LegendSwap V2 is available at [uniswap.org](https://uniswap.org/docs).
 
-The built contract artifacts can be browsed via [unpkg.com](https://unpkg.com/browse/@legendswap/contracts@latest/).
+The built contract artifacts can be browsed via [unpkg.com](https://unpkg.com/browse/@legendswap/legendswap-core@latest/).
 
 ## Listing a token
 
